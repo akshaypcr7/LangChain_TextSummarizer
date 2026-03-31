@@ -1,4 +1,4 @@
-# 🦜 LangChain Text Summarizer - YouTube & Website
+#  LangChain Text Summarizer - YouTube & Website
 
 Ever landed on a 45-minute YouTube video or a massive blog post and thought *"I just need the gist"*? That's exactly why I built this.
 
@@ -6,7 +6,7 @@ Paste a URL - any YouTube video or website - and this app gives you a clean, rea
 
 ---
 
-## 🚀 What it can do
+##  What it can do
 
 - **Summarize YouTube videos** - drop in a YouTube link and it pulls the transcript and summarizes it for you
 - **Summarize websites & articles** - works on most news articles, blog posts, and web pages
@@ -94,24 +94,3 @@ text-summarization/
 └── README.md                     # You're reading it
 ```
 
----
-
-## 🙋 A few things worth knowing
-
-- YouTube summarization only works if the video has **captions or a transcript**. If it doesn't, it'll throw an error
-- Some websites actively block scrapers, so it won't work on every page
-- SSL verification is turned off for URL loading, so stick to sites you trust
-
----
-
-## 🙌 Shoutout to
-
-- [LangChain](https://www.langchain.com/) - made chaining all this together surprisingly painless
-- [Groq](https://groq.com/) - the inference speed is genuinely impressive
-- [Streamlit](https://streamlit.io/) - for making Python web apps feel easy
-
----
-
-## 📄 License
-
-MIT - do whatever you want with it.
